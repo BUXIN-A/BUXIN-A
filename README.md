@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm BUXIN
 
-<img align="right" src="https://ghstats.dev/api/card?username=BUXIN-A&theme=default&show_icons=true&border_radius=10" width="450" alt="BUXIN-A's GitHub Stats" />
-
 ### 🧑‍💻 About Me
 
 - 🔭 I'm currently working on **open-source projects** and exploring new technologies.
@@ -11,11 +9,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=BUXIN-A&theme=default&show_icons=true&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://ghstats.dev/api/card?username=BUXIN-A&theme=default&layout=compact&show_icons=true&border_radius=10" width="48%" alt="Top Languages" />
+<img align="right" src="https://ghstats.dev/api/card?username=BUXIN-A&theme=default&show_icons=true&border_radius=10" width="450" alt="BUXIN-A's GitHub Stats" />
 </p>
 
 ---
