@@ -18,7 +18,7 @@
 ### 🔥 Visitor Count
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@BUXIN-A?theme=random" alt="Visitor Count" />
+  <img src="https://count.getloli.com/@BUXIN-A?name=BUXIN-A&theme=original-old&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </p>
 
 ---
