@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers 静态资源部署配置（无构建步骤，仓库根目录即资源目录）
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "buxin-a",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "."
+  }
+}

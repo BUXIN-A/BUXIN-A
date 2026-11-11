@@ -1,0 +1,5 @@
+node_modules/
+.wrangler/
+.trae-html-share-packages/
+*.log
+.DS_Store

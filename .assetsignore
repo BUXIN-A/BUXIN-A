@@ -1,0 +1,11 @@
+# 上传静态资源时排除的非站点文件（gitignore 语法）
+.git/
+.gitignore
+.wrangler/
+.trae-html-share-packages/
+node_modules/
+wrangler.jsonc
+wrangler.toml
+package.json
+package-lock.json
+README.md
