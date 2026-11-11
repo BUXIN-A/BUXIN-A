@@ -1,0 +1,23 @@
+{
+  "sites": [
+    {
+      "name": "个人主站",
+      "link": "https://www.g-bx.cn",
+      "description": "个人主站",
+      "icon": "BX"
+    },
+    {
+      "name": "博客",
+      "link": "https://buxin.us.kg",
+      "description": "个人博客",
+      "icon": "BX"
+    },
+    {
+      "name": "BUXIN的图库",
+      "link": "https://gallery.buxin.us.kg",
+      "description": "个人图库",
+      "icon": "BX"
+    }
+  ],
+  "projects": []
+}
